@@ -9,7 +9,6 @@
 
 .made {
   text-align: center;
-  margin: 0%;
   position: relative;
   background-color: #001845;
   padding: 30px;
@@ -40,6 +39,6 @@
 
 body {
   background-color: #002855;
-  color:aliceblue;
+  color: aliceblue;
   font-family: "Times New Roman", Times, serif;
 }
